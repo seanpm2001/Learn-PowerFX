@@ -49,11 +49,10 @@
 *.srt linguist-documentation=false
 *.srt linguist-language=SubRip-Text
 # YAML (YAML Ain't Markup Language) document
-# Do not include, as it would become a dominant language that shouldn't be the language people refer this project to
-*.yml linguist-detectable=false
+*.yml linguist-detectable=true
 *.yml linguist-documentation=false
 *.yml linguist-language=YAML
-*.yaml linguist-detectable=false
+*.yaml linguist-detectable=true
 *.yaml linguist-documentation=false
 *.yaml linguist-language=YAML
 # Markdown
@@ -164,7 +163,7 @@
 # End of linguist script
 
 # File info
-# File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File type: gitattributes file (*.gitattributes)
+# File version: 5 (2022, Friday, October 14th at 2:03 pm PST)
+# Line count (including blank lines and compiler line): 170
 # End of script
